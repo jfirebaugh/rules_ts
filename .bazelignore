@@ -15,3 +15,5 @@ examples/linked_tsconfig/node_modules
 examples/linked_tsconfig_consumer/node_modules
 examples/resolve_json_module_esm/node_modules
 examples/resolve_json_module_transpiler/node_modules
+examples/sandbox_escape/app/node_modules
+examples/sandbox_escape/lib/node_modules

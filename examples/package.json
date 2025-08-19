@@ -20,5 +20,6 @@
     },
     "devDependencies": {
         "@myorg/lib_nocompile_linked": "workspace:*"
-    }
+    },
+    "packageManager": "pnpm@8.15.9"
 }
